@@ -1,4 +1,4 @@
-# High Pt Sub-Jet Analysis
+# High pT Sub-Jet Analysis
 This analysis takes the approach of a two point energy correlation function, using CMB techniques to study high-pt jet substructures. We plot angular power spectra (Cls) to look for angular correlations between the distribution of particles within a jet.  
   
 We take advantage of the healpy package in HEALPix (Hierarchical Equal Area isoLatitude Pixelation) scheme to produce sky maps of the particles within a jet.  
